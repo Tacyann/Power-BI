@@ -1,0 +1,169 @@
+"ID_CLASSE","DS_SEXO","NU_IDADE","DS_ESCOLARIDADE"
+1,Feminino,18,"1º grau"
+29,Feminino,18,"2º grau"
+57,Feminino,18,Superior
+2,Feminino,19,"1º grau"
+30,Feminino,19,"2º grau"
+58,Feminino,19,Superior
+3,Feminino,20,"1º grau"
+31,Feminino,20,"2º grau"
+59,Feminino,20,Superior
+4,Feminino,21,"1º grau"
+32,Feminino,21,"2º grau"
+60,Feminino,21,Superior
+5,Feminino,22,"1º grau"
+33,Feminino,22,"2º grau"
+61,Feminino,22,Superior
+6,Feminino,23,"1º grau"
+34,Feminino,23,"2º grau"
+62,Feminino,23,Superior
+7,Feminino,24,"1º grau"
+35,Feminino,24,"2º grau"
+63,Feminino,24,Superior
+8,Feminino,25,"1º grau"
+36,Feminino,25,"2º grau"
+64,Feminino,25,Superior
+9,Feminino,26,"1º grau"
+37,Feminino,26,"2º grau"
+65,Feminino,26,Superior
+10,Feminino,27,"1º grau"
+38,Feminino,27,"2º grau"
+66,Feminino,27,Superior
+11,Feminino,28,"1º grau"
+39,Feminino,28,"2º grau"
+67,Feminino,28,Superior
+12,Feminino,29,"1º grau"
+40,Feminino,29,"2º grau"
+68,Feminino,29,Superior
+13,Feminino,30,"1º grau"
+41,Feminino,30,"2º grau"
+69,Feminino,30,Superior
+14,Feminino,31,"1º grau"
+42,Feminino,31,"2º grau"
+70,Feminino,31,Superior
+15,Feminino,32,"1º grau"
+43,Feminino,32,"2º grau"
+71,Feminino,32,Superior
+16,Feminino,33,"1º grau"
+44,Feminino,33,"2º grau"
+72,Feminino,33,Superior
+17,Feminino,34,"1º grau"
+45,Feminino,34,"2º grau"
+73,Feminino,34,Superior
+18,Feminino,35,"1º grau"
+46,Feminino,35,"2º grau"
+74,Feminino,35,Superior
+19,Feminino,36,"1º grau"
+47,Feminino,36,"2º grau"
+75,Feminino,36,Superior
+20,Feminino,37,"1º grau"
+48,Feminino,37,"2º grau"
+76,Feminino,37,Superior
+21,Feminino,38,"1º grau"
+49,Feminino,38,"2º grau"
+77,Feminino,38,Superior
+22,Feminino,39,"1º grau"
+50,Feminino,39,"2º grau"
+78,Feminino,39,Superior
+23,Feminino,40,"1º grau"
+51,Feminino,40,"2º grau"
+79,Feminino,40,Superior
+24,Feminino,41,"1º grau"
+52,Feminino,41,"2º grau"
+80,Feminino,41,Superior
+25,Feminino,42,"1º grau"
+53,Feminino,42,"2º grau"
+81,Feminino,42,Superior
+26,Feminino,43,"1º grau"
+54,Feminino,43,"2º grau"
+82,Feminino,43,Superior
+27,Feminino,44,"1º grau"
+55,Feminino,44,"2º grau"
+83,Feminino,44,Superior
+28,Feminino,45,"1º grau"
+56,Feminino,45,"2º grau"
+84,Feminino,45,Superior
+85,Masculino,18,"1º grau"
+113,Masculino,18,"2º grau"
+141,Masculino,18,Superior
+86,Masculino,19,"1º grau"
+114,Masculino,19,"2º grau"
+142,Masculino,19,Superior
+87,Masculino,20,"1º grau"
+115,Masculino,20,"2º grau"
+143,Masculino,20,Superior
+88,Masculino,21,"1º grau"
+116,Masculino,21,"2º grau"
+144,Masculino,21,Superior
+89,Masculino,22,"1º grau"
+117,Masculino,22,"2º grau"
+145,Masculino,22,Superior
+90,Masculino,23,"1º grau"
+118,Masculino,23,"2º grau"
+146,Masculino,23,Superior
+91,Masculino,24,"1º grau"
+119,Masculino,24,"2º grau"
+147,Masculino,24,Superior
+92,Masculino,25,"1º grau"
+120,Masculino,25,"2º grau"
+148,Masculino,25,Superior
+93,Masculino,26,"1º grau"
+121,Masculino,26,"2º grau"
+149,Masculino,26,Superior
+94,Masculino,27,"1º grau"
+122,Masculino,27,"2º grau"
+150,Masculino,27,Superior
+95,Masculino,28,"1º grau"
+123,Masculino,28,"2º grau"
+151,Masculino,28,Superior
+96,Masculino,29,"1º grau"
+124,Masculino,29,"2º grau"
+152,Masculino,29,Superior
+97,Masculino,30,"1º grau"
+125,Masculino,30,"2º grau"
+153,Masculino,30,Superior
+98,Masculino,31,"1º grau"
+126,Masculino,31,"2º grau"
+154,Masculino,31,Superior
+99,Masculino,32,"1º grau"
+127,Masculino,32,"2º grau"
+155,Masculino,32,Superior
+100,Masculino,33,"1º grau"
+128,Masculino,33,"2º grau"
+156,Masculino,33,Superior
+101,Masculino,34,"1º grau"
+129,Masculino,34,"2º grau"
+157,Masculino,34,Superior
+102,Masculino,35,"1º grau"
+130,Masculino,35,"2º grau"
+158,Masculino,35,Superior
+103,Masculino,36,"1º grau"
+131,Masculino,36,"2º grau"
+159,Masculino,36,Superior
+104,Masculino,37,"1º grau"
+132,Masculino,37,"2º grau"
+160,Masculino,37,Superior
+105,Masculino,38,"1º grau"
+133,Masculino,38,"2º grau"
+161,Masculino,38,Superior
+106,Masculino,39,"1º grau"
+134,Masculino,39,"2º grau"
+162,Masculino,39,Superior
+107,Masculino,40,"1º grau"
+135,Masculino,40,"2º grau"
+163,Masculino,40,Superior
+108,Masculino,41,"1º grau"
+136,Masculino,41,"2º grau"
+164,Masculino,41,Superior
+109,Masculino,42,"1º grau"
+137,Masculino,42,"2º grau"
+165,Masculino,42,Superior
+110,Masculino,43,"1º grau"
+138,Masculino,43,"2º grau"
+166,Masculino,43,Superior
+111,Masculino,44,"1º grau"
+139,Masculino,44,"2º grau"
+167,Masculino,44,Superior
+112,Masculino,45,"1º grau"
+140,Masculino,45,"2º grau"
+168,Masculino,45,Superior

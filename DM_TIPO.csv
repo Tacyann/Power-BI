@@ -1,0 +1,13 @@
+"ID_TIPO","DS_GRUPO","DS_TIPO"
+1,Hardware,Processador
+2,Hardware,Placa-Mãe
+3,Hardware,Memória
+4,Hardware,Disco
+5,Software,Windows
+6,Software,Word
+7,Software,Excel
+8,Software,Power Point
+9,Software,EMail
+10,Sistema Corporativo,ERP
+11,Sistema Corporativo,Acadêmico
+12,Sistema Corporativo,Ensino à Distância

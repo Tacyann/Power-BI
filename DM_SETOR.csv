@@ -1,0 +1,14 @@
+"ID_SETOR","CD_LOCAL","CD_SETOR","DS_LOCAL","DS_SETOR"
+1,1,1,Reitoria,DTI
+2,1,2,Reitoria,PROAC
+3,1,3,Reitoria,PROAD
+4,1,4,Reitoria,DAA
+5,1,5,Reitoria,Tesouraria
+6,1,6,Reitoria,Recursos Humanos
+7,2,7,Didáticas,Sala dos Professores
+8,2,8,Didáticas,Sala dos Coordnadores
+9,2,9,Didáticas,Laboratórios
+10,2,10,Administração,Manutenção
+11,3,11,Administração,Limpeza
+12,3,12,Administração,Apoio
+13,3,13,Administração,Transporte
